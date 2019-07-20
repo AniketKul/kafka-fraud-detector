@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  # TODO: generator and detector coming soon
+
+networks:
+  default:
+    external:
+      name: kafka-network
